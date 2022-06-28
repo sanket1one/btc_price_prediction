@@ -1,0 +1,8 @@
+renv/
+.RData
+.Rhistory
+.Rprofile
+renv.lock
+app.Rproj
+model.rds
+.Rproj.user/
